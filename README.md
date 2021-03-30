@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gev</h1>
+<h1 align="center">Hi 👋, I'm Gevorg</h1>
 <h3 align="center">UI Team Lead at <a href="https://screenful.com/">Screenful</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modularcoder&label=Profile%20views&color=0e75b6&style=flat" alt="modularcoder" /> </p>
