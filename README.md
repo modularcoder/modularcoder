@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modularcoder&label=Profile%20views&color=0e75b6&style=flat" alt="modularcoder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/modularcoder" target="blank"><img src="https://img.shields.io/twitter/follow/modularcoder?logo=twitter&style=for-the-badge" alt="modularcoder" /></a> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Writing a coding tutorial article on Medium: the technical parts](https://medium.com/@modularcoder/writing-a-coding-tutorial-article-on-medium-the-technical-parts-34ea1e5fcd61?source=rss-48c245291195------2)
