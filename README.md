@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gevorg</h1>
-<h3 align="center">UI Team Lead at <a href="https://screenful.com/">Screenful</a>, Co-Founder at <a href="https://jsconf.am">JSConfAm</a>, <a href="https://nodeconf.am">NodeConfAm</a>, <a href="https://reactconf.am">ReactConfAm</a></h3>
+<h3 align="center">Front-End Team Lead at <a href="https://screenful.com/">Screenful</a>, Co-Founder at <a href="https://jsconf.am">JSConfAm</a>, <a href="https://nodeconf.am">NodeConfAm</a>, <a href="https://reactconf.am">ReactConfAm</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modularcoder&label=Profile%20views&color=0e75b6&style=flat" alt="modularcoder" /> </p>
 
