@@ -7,6 +7,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Writing a coding tutorial article on Medium: the technical parts](https://medium.com/@modularcoder/writing-a-coding-tutorial-article-on-medium-the-technical-parts-34ea1e5fcd61?source=rss-48c245291195------2)
 - [ReactJS multi-level sidebar navigation menu with MaterialUI and TypeScript](https://betterprogramming.pub/reactjs-multi-level-sidebar-navigation-menu-with-typescrip-materialui-251943c12dda?source=rss-48c245291195------2)
+- [ModularAdmin v1.2 released](https://medium.com/modularcode/modularadmin-v1-2-released-a16545ff35ee?source=rss-48c245291195------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
