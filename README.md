@@ -2,11 +2,11 @@
 
 
 <h3> 
-  Software Engineer at <a href="https://bardeen.ai">Bardeen.ai</a> and Co-Founder at <a href="https://jsconf.am">JSConfAm</a>, <a href="https://nodeconf.am">NodeConfAm</a>, <a href="https://reactconf.am">ReactConfAm</a>
+  Front-End Engineer and Co-Founder at <a href="https://jsconf.am">JSConfAm</a>, <a href="https://nodeconf.am">NodeConfAm</a>, <a href="https://reactconf.am">ReactConfAm</a>
 </h3>
 
 
-> Previously: Front-End Tech Lead at <a href="https://pex.com">Pex</a>, Front-End Team Lead at <a href="https://screenful.com/">Screenful</a>
+> Previously: Front-End Engineer at <a href="https://bardeen.ai">Bardeen.ai</a>, Front-End Tech Lead at <a href="https://pex.com">Pex</a>, Front-End Team Lead at <a href="https://screenful.com/">Screenful</a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modularcoder&label=Profile%20views&color=0e75b6&style=flat" alt="modularcoder" /> </p>
